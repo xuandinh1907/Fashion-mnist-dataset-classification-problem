@@ -1,0 +1,2 @@
+# W5_PrOjEcT_FaShIoN_mNiSt
+Discover FASHION MNIST DATA SET by applying ENSEMBLE LEARNING and PCA
