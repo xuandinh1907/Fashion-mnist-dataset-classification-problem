@@ -1,2 +1,2 @@
-# W5_PrOjEcT_FaShIoN_mNiSt
-Discover FASHION MNIST DATA SET by applying ENSEMBLE LEARNING and PCA
+# Classification problem with fashion mnist dataset
+## Discover FASHION MNIST DATA SET by applying ENSEMBLE LEARNING and PCA
